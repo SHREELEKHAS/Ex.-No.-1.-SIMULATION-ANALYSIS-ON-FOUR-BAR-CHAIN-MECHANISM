@@ -53,6 +53,8 @@
 
 
 ## Output:
+![Screenshot 2024-10-21 142524](https://github.com/user-attachments/assets/4bc95aa6-cfd7-441c-922d-0cdffb6a0909)
+
 ![Screenshot 2024-09-17 221616](https://github.com/user-attachments/assets/680462b0-b005-456c-adbf-8283592c5707)
 
 
